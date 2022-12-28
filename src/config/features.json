@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Encrypted",
+        "description": "A simple encryption program that uses a key to encrypt and decrypt a message.",
+        "image": "https://picsum.photos/200/300"
+    },
+    {
+        "title": "Open Source",
+        "description": "A simple program that allows you to open source code files.",
+        "image": "https://picsum.photos/200/300"
+    },
+    {
+        "title": "Free",
+        "description": "Your data is your own. We don't collect any data from you.",
+        "image": "https://picsum.photos/200/300"
+    },
+    {
+        "title": "Fast",
+        "description": "We use the latest technology to make sure your data is safe and secure.",
+        "image": "https://picsum.photos/200/300"
+    },
+    {
+        "title": "Secure",
+        "description": "We use the latest technology to make sure your data is safe and secure.",
+        "image": "https://picsum.photos/200/300"
+    },
+    {
+        "title": "Cross Platform",
+        "description": "Our software is available on all platforms.",
+        "image": "https://picsum.photos/200/300"
+    }
+]
